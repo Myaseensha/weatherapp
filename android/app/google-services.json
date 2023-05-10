@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936324180984",
+    "project_id": "fir-weather-app-1ec18",
+    "storage_bucket": "fir-weather-app-1ec18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936324180984:android:c9ca46a70e3b29e0bdc40d",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936324180984-vdtbn1i9fgm12dlv61bgu1oebmgbltqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmAPVoxOGBrSnk6pKOgXzvtJPumdf-0Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936324180984-c3gost3nf45hiruvctgu0jbu01h01ti7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
